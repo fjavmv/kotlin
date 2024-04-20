@@ -25,5 +25,4 @@ fun main() {
     println(arrX[2])
     println(arrY[1])
     println(arrC[0])
-    
 }
